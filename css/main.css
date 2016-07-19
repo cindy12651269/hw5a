@@ -1,0 +1,70 @@
+.bg {
+    /*width:100%;*/
+    height: 1000px;
+    background: url('../img/christmas-bokeh-vector-background.jpg');
+    text-align: center;
+}
+
+.plan {
+    display: inline-block;
+    margin-left: 20px;
+    background: white;
+    width: 200px;
+    height: 300px;
+}
+
+.navy-bg {
+    background: navy;
+    height: 150px;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 0px;
+  
+}
+
+.item {
+    display: inline;
+    margin-left: 0px;
+    width: 100px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.tri-plan {
+    display: inline-block;
+    padding-top: 100px;
+    text-align: center;
+}
+
+strong {
+    color: black;
+}
+
+.rect {
+    width: 150px;
+    height: 20px;
+    border-radius: 10%;
+    background: navy;
+    border:1px solid white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    display: inline;
+}
+.big{
+    font-size: 50px
+}
+.all{
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    text-align: left;
+    
+}
+hr{width:120%;
+margin-left: -10%;
+   
+}
